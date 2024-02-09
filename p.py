@@ -1,0 +1,1 @@
+print("welcome omar khmjan")
